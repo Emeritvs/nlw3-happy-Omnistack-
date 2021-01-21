@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
+    ![Alt text]("https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000")
 
+  ![Alt text]("https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000")
 </p>
 
 <br>
